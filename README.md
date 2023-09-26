@@ -1,5 +1,7 @@
-### Marco Aurélio Rodrigues Dias 👋
-Olá, sou Marco Aurélio Rodrigues Dias :smiley: Sou pedagogo
+### Marco Aurélio Rodrigues Dias :smiley:
+Olá, sou Marco Aurélio Rodrigues Dias. Sou pedagogo.
+:scientist:Sou cientista da Educação, estudioso da pedagogia e da construção do conhecimento.
+:artist:Admirador das Artes Plásticas
 <!--
 **tvmard/tvmard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
