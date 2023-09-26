@@ -1,5 +1,5 @@
 ### Marco Aurélio Rodrigues Dias :smiley:
-Olá, sou o professor Marco Aurélio Rodrigues Dias :teacher:. Sou pedagogo,
+Olá, sou o **professor** Marco Aurélio Rodrigues Dias :teacher:. Sou pedagogo,
 cientista da Educação :scientist:, estudioso da pedagogia e da construção do conhecimento e
 Admirador das Artes Plásticas :artist:.
 <!--
