@@ -1,10 +1,11 @@
 ### Marco Aurélio Rodrigues Dias :smiley:
-Olá, sou o **professor Marco Aurélio Rodrigues Dias** :teacher:. Sou pedagogo,
+Olá, sou o **professor Marco Aurélio Rodrigues Dias** :teacher:. 
+Sou pedagogo,
 cientista da Educação :scientist:, estudioso da pedagogia e da construção do conhecimento e
 Admirador das Artes Plásticas :artist:.
 Você também encontra meus artigos científicos no site [My Open Acess](https://myopenacess.blogspot.com)
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://lh3.googleusercontent.com/a/ACg8ocLwawng65kiveHZvVBbBc6icKOjXvbATiTGjb4VUFFv9ekT=s378-c-no)
+
 <!--
 **tvmard/tvmard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
