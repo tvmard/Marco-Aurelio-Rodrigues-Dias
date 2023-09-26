@@ -1,9 +1,9 @@
-### Hi there 👋
-
+### Marco Aurélio Rodrigues Dias 👋
+Olá, sou Marco Aurélio Rodrigues Dias :smiley: Sou pedagogo
 <!--
 **tvmard/tvmard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+P
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
