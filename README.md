@@ -2,6 +2,7 @@
 Olá, sou o **professor Marco Aurélio Rodrigues Dias** :teacher:. Sou pedagogo,
 cientista da Educação :scientist:, estudioso da pedagogia e da construção do conhecimento e
 Admirador das Artes Plásticas :artist:.
+Você também encontra meus artigos científicos no site [My Open Acess](https://myopenacess.blogspot.com)
 <!--
 **tvmard/tvmard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
